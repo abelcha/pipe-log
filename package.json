@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-native-web-community/react-native-web-lists.git"
+    "url": "git@github.com:abelcha/pipe-log.git"
   },
   "author": "abel chalier",
   "license": "ISC",
