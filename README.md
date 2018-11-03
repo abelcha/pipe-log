@@ -41,5 +41,6 @@ COPY ./newrelic.js /code/newrelic.js
 ### With lodash (preloaded as _)
 ```
 $ cat package.json | plog "_.toPairs(data.dependencies).map(p => p.join('@')).join(' ')"
+
 lodash@^4.17.11 @babel/core"@^7.0.0-beta.52
 ```

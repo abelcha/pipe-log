@@ -5,6 +5,12 @@
   "dependencies": {
     "lodash": "^4.17.11"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:react-native-web-community/react-native-web-lists.git"
+  },
+  "author": "abel chalier",
+  "license": "ISC",
   "bin": {
     "plog": "index.js",
     "pipe-log": "index.js"
