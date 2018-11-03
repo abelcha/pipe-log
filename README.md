@@ -8,9 +8,9 @@ $ curl api.com/ressource | plog "resp.data.map(e => e.name)"
 # Install
 
 ```sh
- $ yarn global add pipe-log
+ $ yarn global add plog-cli
  # or
- $ npm install pipe-log --global
+ $ npm install plog-cli --global
 ```
 # Usage
 
